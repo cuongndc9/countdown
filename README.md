@@ -45,4 +45,3 @@ For help getting started with C#, view our online [documentation](https://docs.m
 
 MIT
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nBe a lifelong learner, not a know-it-all.\n🐯\n<!-- INSPIRATIONAL_QUOTE_END -->
