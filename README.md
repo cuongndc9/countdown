@@ -47,5 +47,5 @@ MIT
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "We may encounter many defeats but we must not be defeated." - Maya Angelou
+> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 <!-- INSPIRATIONAL_QUOTE_END -->
